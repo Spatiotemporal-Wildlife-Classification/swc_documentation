@@ -30,7 +30,7 @@ swc_documentation repository and execute the command from the command line.
 To deploy the documentation live at the URL: https://spatiotemporal-wildlife-classification.github.io/ 
 Navigate into the `Spatiotemporal-Wildlife-Classification.github.io` repository and execute the following from the command line:
 ```
-mkdocs gh-deploy --config -file ../swc_documentation/mkdocs.yml --remote-branch main
+mkdocs gh-deploy --config-file ../swc_documentation/mkdocs.yml --remote-branch main
 ```
 
 ## Useful Links and Style Guide
