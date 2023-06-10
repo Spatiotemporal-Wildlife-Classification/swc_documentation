@@ -37,9 +37,23 @@ The proposed research questions include:
 2. How does taxonomic level influence the performance of image classification?
 3. How does the novel cascading ensemble method improve upon baseline classifiers?
 
-### DSN Leaf
+### [DSN Leaf](https://spatiotemporal-wildlife-classification.github.io/DSN-Leaf/)
+This repository serves to provide a leaf node within the [Distributed Scraping Network (DSN)](https://spatiotemporal-wildlife-classification.github.io/Distributed-Scraping-Network/). 
+The DSN provides a central point of communication for the leaf node through the use of a [FastAPI](https://fastapi.tiangolo.com/).
+The leaf node communicates with the central DSN to determine essential wildlife observation details, 
+required to make a weather data request to the Open-Meteo historical API. Once the data is retrieved, the leaf node formats the collected data, and posts it back to the central DSN for collection and storage. 
 
-### Distributed Scraping Network
+In summary, the leaf node collects the weather/ metadata for each observation and transfers it to a central storage. 
+This enables the creation of the [Spatiotemporal Wildlife Classification's]((https://trav-d13.github.io/spatiotemporal_wildlife_classification/)) novel dataset, specifically the metadata values.
+
+### [Distributed Scraping Network](https://spatiotemporal-wildlife-classification.github.io/Distributed-Scraping-Network/)
+This API is created to run on a server, providing a central means of distributing and collecting weather data from
+Open-Meteo. 
+This server provides a means of accessing and running a DSN leaf node at any computer. 
+This allows collection to occur externally running from a form of cloud computing. 
+This allows you to keep your computer free to work on other topics while data collection occurs.
+
+This API is run in combination with results obtained from [Spatiotemporal Wildlife Classification](https://trav-d13.github.io/spatiotemporal_wildlife_classification/) and [DSN Leaf](https://spatiotemporal-wildlife-classification.github.io/DSN-Leaf/).
 
 ### Animal Detector
 
