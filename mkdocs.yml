@@ -6,6 +6,8 @@ theme:
 
 nav:
   - Home: index.md
-  - Spatiotemporal Wildlife Classification: https://trav-d13.github.io/spatiotemporal_wildlife_classification/
+  - Spatiotemporal Wildlife Classification: https://spatiotemporal-wildlife-classification.github.io/Wildlife-Classification/
+  - Animal Detector:
+  - Image Labelling:
   - DSN Central: https://spatiotemporal-wildlife-classification.github.io/Distributed-Scraping-Network/
   - DSN Leaf: https://spatiotemporal-wildlife-classification.github.io/DSN-Leaf/

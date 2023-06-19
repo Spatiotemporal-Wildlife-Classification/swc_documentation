@@ -11,11 +11,11 @@ Each of the topics within the organization structure, provides a sneak-peak into
 as a direct link to the relevant documentation.
 
 ## Thesis Report
-This link provides direct access to download the resulting report on the investigation into [_A novel use of Spatiotemporal Metadata to Bolster Wildlife Classification_](resources/spatiotemporal_wildlife_classification_draft_1_v_2.pdf)
+This link provides direct access to download the resulting report on the investigation into [_A novel use of Spatiotemporal Metadata to Bolster Wildlife Classification_](resources/spatiotemporal_wildlife_classification_version_2_v2_website.pdf)
 
 ## Organization Structure
 
-### [Spatiotemporal Wildlife Classification](https://trav-d13.github.io/spatiotemporal_wildlife_classification/)
+### [Wildlife Classification](https://spatiotemporal-wildlife-classification.github.io/Wildlife-Classification/)
 The global extent of social media, camera traps, and citizen science has the potential to provide 
 a real-time global wildlife overview reaching to the furthest corners of the globe.
 
@@ -37,6 +37,9 @@ The proposed research questions include:
 2. How does taxonomic level influence the performance of image classification?
 3. How does the novel cascading ensemble method improve upon baseline classifiers?
 
+### Animal Detector
+
+### Binary Image Labelling
 
 ### [Distributed Scraping Network](https://spatiotemporal-wildlife-classification.github.io/Distributed-Scraping-Network/)
 This API is created to run on a server, providing a central means of distributing and collecting weather data from
@@ -56,10 +59,6 @@ required to make a weather data request to the Open-Meteo historical API. Once t
 
 In summary, the leaf node collects the weather/ metadata for each observation and transfers it to a central storage. 
 This enables the creation of the [Spatiotemporal Wildlife Classification's]((https://trav-d13.github.io/spatiotemporal_wildlife_classification/)) novel dataset, specifically the metadata values.
-
-### Animal Detector
-
-### Binary Image Labelling
 
 ## Favourites Gallery 
 
