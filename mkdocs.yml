@@ -5,7 +5,7 @@ theme:
 
 
 nav:
-  - Home: index.md
+  - Organization Home: index.md
   - Spatiotemporal Wildlife Classification: https://spatiotemporal-wildlife-classification.github.io/Wildlife-Classification/
   - Animal Detector: https://spatiotemporal-wildlife-classification.github.io/Animal-Detector/
   - Binary Image Labelling: https://spatiotemporal-wildlife-classification.github.io/Binary-Image-Labelling/
