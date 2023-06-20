@@ -45,7 +45,13 @@ and placing bounding-boxes. Each animal detection is cropped and forms a sub-ima
 The resulting sub-images form a training and validation dataset constructed using a taxonomic directory structure to facilitate 
 image classification training in the [Wildlife Classification](https://spatiotemporal-wildlife-classification.github.io/Wildlife-Classification/) repository.
 
-### Binary Image Labelling
+### [Binary Image Labelling](https://spatiotemporal-wildlife-classification.github.io/Binary-Image-Labelling/)
+This repository offers a simple binary image processor. 
+Its primary use cases involved the possibilities of hand-labelling observation image quality or animal presence in order to train a model
+to detect whether an image was of sufficient quality or contained wildlife to be used as training or validation data. 
+This was created before the use of the [Animal Detector](https://spatiotemporal-wildlife-classification.github.io/Animal-Detector/)
+
+
 
 ### [Distributed Scraping Network](https://spatiotemporal-wildlife-classification.github.io/Distributed-Scraping-Network/)
 This API is created to run on a server, providing a central means of distributing and collecting weather data from
@@ -64,7 +70,7 @@ The leaf node communicates with the central DSN to determine essential wildlife 
 required to make a weather data request to the Open-Meteo historical API. Once the data is retrieved, the leaf node formats the collected data, and posts it back to the central DSN for collection and storage. 
 
 In summary, the leaf node collects the weather/ metadata for each observation and transfers it to a central storage. 
-This enables the creation of the [Spatiotemporal Wildlife Classification's]((https://trav-d13.github.io/spatiotemporal_wildlife_classification/)) novel dataset, specifically the metadata values.
+This enables the creation of the [Spatiotemporal Wildlife Classification's](https://trav-d13.github.io/spatiotemporal_wildlife_classification/) novel dataset, specifically the metadata values.
 
 ## Favourites Gallery 
 
