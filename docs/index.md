@@ -70,7 +70,7 @@ The leaf node communicates with the central DSN to determine essential wildlife 
 required to make a weather data request to the Open-Meteo historical API. Once the data is retrieved, the leaf node formats the collected data, and posts it back to the central DSN for collection and storage. 
 
 In summary, the leaf node collects the weather/ metadata for each observation and transfers it to a central storage. 
-This enables the creation of the [Spatiotemporal Wildlife Classification's]((https://trav-d13.github.io/spatiotemporal_wildlife_classification/)) novel dataset, specifically the metadata values.
+This enables the creation of the [Spatiotemporal Wildlife Classification's](https://trav-d13.github.io/spatiotemporal_wildlife_classification/) novel dataset, specifically the metadata values.
 
 ## Favourites Gallery 
 
