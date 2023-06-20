@@ -106,5 +106,7 @@ This enables the creation of the [Spatiotemporal Wildlife Classification's](http
   <img src="resources/6479106_a.jpg" alt="Image 25">
 </div>
 
+_The above images are sourced from the Dataset [DOI: 10.34740/kaggle/dsv/5939843](https://www.kaggle.com/datasets/travisdaws/spatiotemporal-wildlife-dataset). 
+All attributions go to [iNaturalist](https://www.inaturalist.org/). The original source of the wildlife observation images._
 
 
