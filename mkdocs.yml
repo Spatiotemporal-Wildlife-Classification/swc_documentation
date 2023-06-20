@@ -7,5 +7,6 @@ theme:
 nav:
   - Home: index.md
   - Spatiotemporal Wildlife Classification: https://spatiotemporal-wildlife-classification.github.io/Wildlife-Classification/
+  - Animal Detector: https://spatiotemporal-wildlife-classification.github.io/Animal-Detector/
   - DSN Central: https://spatiotemporal-wildlife-classification.github.io/Distributed-Scraping-Network/
   - DSN Leaf: https://spatiotemporal-wildlife-classification.github.io/DSN-Leaf/

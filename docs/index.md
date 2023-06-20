@@ -37,7 +37,13 @@ The proposed research questions include:
 2. How does taxonomic level influence the performance of image classification?
 3. How does the novel cascading ensemble method improve upon baseline classifiers?
 
-### Animal Detector
+### [Animal Detector](https://spatiotemporal-wildlife-classification.github.io/Animal-Detector/)
+This repository performs the observation image pre-processing. 
+The pre-processing includes downloading the raw observation images from the iNaturalist urls. 
+Each image is subjected to the [Mega-detector](https://github.com/microsoft/CameraTraps/blob/main/megadetector.md) YOLO5 object-detection model, capable of detecting animals within an image 
+and placing bounding-boxes. Each animal detection is cropped and forms a sub-image with image enhancement to maintain resolution.
+The resulting sub-images form a training and validation dataset constructed using a taxonomic directory structure to facilitate 
+image classification training in the [Wildlife Classification](https://spatiotemporal-wildlife-classification.github.io/Wildlife-Classification/) repository.
 
 ### Binary Image Labelling
 
