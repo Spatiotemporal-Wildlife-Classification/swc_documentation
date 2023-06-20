@@ -73,4 +73,38 @@ In summary, the leaf node collects the weather/ metadata for each observation an
 This enables the creation of the [Spatiotemporal Wildlife Classification's](https://trav-d13.github.io/spatiotemporal_wildlife_classification/) novel dataset, specifically the metadata values.
 
 ## Favourites Gallery 
+<div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; justify-items: center;">
+
+  <img src="resources/22096_a.jpg" alt="Image 1">
+  <img src="resources/56800_a.jpg" alt="Image 2">
+  <img src="resources/7133786_a.jpg" alt="Image 3">
+  <img src="resources/8784633_a.jpg" alt="Image 4">
+  <img src="resources/45223793_a.jpg" alt="Image 5">
+
+  <img src="resources/8000944_a.jpg" alt="Image 6">
+  <img src="resources/4654956_b.jpg" alt="Image 7">
+  <img src="resources/3885597_a.jpg" alt="Image 8">
+  <img src="resources/153779184_a.jpg" alt="Image 9">
+  <img src="resources/105656953_a.jpg" alt="Image 10">
+
+  <img src="resources/3782340_a.jpg" alt="Image 11">
+  <img src="resources/40172032_a.jpg" alt="Image 12">
+  <img src="resources/37897630_a.jpg" alt="Image 13">
+  <img src="resources/36019502_a.jpg" alt="Image 14">
+  <img src="resources/130558316_a.jpg" alt="Image 15">
+
+  <img src="resources/83474493_a.jpg" alt="Image 16">
+  <img src="resources/43896081_a.jpg" alt="Image 17">
+  <img src="resources/26003681_a.jpg" alt="Image 18">
+  <img src="resources/2416926_b.jpg" alt="Image 19">
+  <img src="resources/93058775_a.jpg" alt="Image 20">
+
+  <img src="resources/49775558_a.jpg" alt="Image 21">
+  <img src="resources/54413848_a.jpg" alt="Image 22">
+  <img src="resources/25330500_a.jpg" alt="Image 23">
+  <img src="resources/14883103_a.jpg" alt="Image 24">
+  <img src="resources/6479106_a.jpg" alt="Image 25">
+</div>
+
+
 
