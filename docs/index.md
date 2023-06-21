@@ -11,7 +11,7 @@ Each of the topics within the organization structure, provides a sneak-peak into
 as a direct link to the relevant documentation.
 
 ## Thesis Report
-This link provides direct access to download the resulting report on the investigation into [_A novel use of Spatiotemporal Metadata to Bolster Wildlife Classification_](resources/spatiotemporal_wildlife_classification_version_2_v2_website.pdf)
+This link provides direct access to download the resulting report on the investigation into [_A novel use of Spatiotemporal Metadata to Bolster Wildlife Classification_](resources/thesis_final_draft.pdf)
 
 ## Organization Structure
 
